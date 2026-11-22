@@ -1,5 +1,18 @@
 # MicroDicom DICOM Viewer 2026.5
 
+<p align="center">
+  <img src="assets/microdicom-logo.png" alt="MicroDicom logo" width="249">
+</p>
+
+<p align="center">
+  <img src="assets/icon-dicom.svg" alt="DICOM imaging" width="44" height="44">
+  <img src="assets/icon-monitor.svg" alt="Windows desktop" width="44" height="44">
+  <img src="assets/icon-archive.svg" alt="ZIP package" width="44" height="44">
+  <img src="assets/icon-shield.svg" alt="Signature verified" width="44" height="44">
+</p>
+
+<p align="center"><strong>DICOM viewer</strong> | <strong>Windows</strong> | <strong>ZIP package</strong> | <strong>Signed installer</strong></p>
+
 Release page and downloadable packaging for MicroDicom DICOM Viewer 2026.5 on Windows. The application installer is the original EXE downloaded from Microdicom ltd's official website. It has not been modified; its Authenticode signature and SHA-256 are listed below.
 
 - Product page: https://microdicoms.github.io/microdicom-dicom-viewer/

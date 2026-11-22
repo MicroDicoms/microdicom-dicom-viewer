@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" aria-labelledby="title">
+  <title id="title">Desktop viewer</title>
+  <rect x="5" y="7" width="38" height="29" rx="4" fill="#e6f7fc" stroke="#087ea4" stroke-width="2"/>
+  <path d="M18 42h12m-6-6v6" fill="none" stroke="#172033" stroke-linecap="round" stroke-width="2"/>
+  <path d="M10 13h12v8H10zm16 0h12v8H26zM10 24h12v8H10zm16 0h12v8H26z" fill="#a7dcee" stroke="#087ea4" stroke-width="1.5"/>
+</svg>

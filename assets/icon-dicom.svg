@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" aria-labelledby="title">
+  <title id="title">DICOM image</title>
+  <rect x="6" y="7" width="36" height="34" rx="5" fill="#e6f7fc" stroke="#087ea4" stroke-width="2"/>
+  <circle cx="18" cy="21" r="6" fill="#a7dcee"/>
+  <path d="M10 35 21 25l7 6 5-5 5 9" fill="none" stroke="#087ea4" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path d="M13 12h22" stroke="#172033" stroke-linecap="round" stroke-width="2"/>
+</svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" aria-labelledby="title">
+  <title id="title">Verified signature</title>
+  <path d="M24 5 39 11v11c0 10-6 17-15 21C15 39 9 32 9 22V11z" fill="#e6f7fc" stroke="#087ea4" stroke-linejoin="round" stroke-width="2"/>
+  <path d="m16 24 5 5 11-12" fill="none" stroke="#087ea4" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+</svg>
