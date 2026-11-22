@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="64" viewBox="0 0 260 64" role="img" aria-labelledby="title desc">
+  <title id="title">Download ZIP package</title>
+  <desc id="desc">Download MicroDicom DICOM Viewer for Windows</desc>
+  <rect x="1" y="1" width="258" height="62" rx="12" fill="#087ea4"/>
+  <path d="M34 16v22m-9-9 9 9 9-9M20 45h28" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+  <text x="64" y="28" fill="#fff" font-family="Arial,sans-serif" font-size="16" font-weight="700">Download MicroDicom</text>
+  <text x="64" y="48" fill="#e6f7fc" font-family="Arial,sans-serif" font-size="13">Windows ZIP · Version 2026.5</text>
+</svg>

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://microdicoms.github.io/microdicom-dicom-viewer/sitemap.xml
